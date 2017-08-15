@@ -6,6 +6,7 @@
 # 
 library(ggplot2)
 library(scales)
+library(ggalt)
 
 #
 theme_set(theme_classic())
