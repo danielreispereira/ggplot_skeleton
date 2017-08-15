@@ -27,3 +27,4 @@ https://github.com/hrbrmstr/hrbrthemes
 
 
 ### 
+https://github.com/emiliehwolf/ggplot2_examples
