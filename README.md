@@ -26,5 +26,5 @@ Additional Themes and Theme Components
 https://github.com/hrbrmstr/hrbrthemes
 
 
-### 
+### wolf's examples
 https://github.com/emiliehwolf/ggplot2_examples
